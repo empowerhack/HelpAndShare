@@ -22,3 +22,7 @@ footer {
 .container-spacer {
     margin-top:3rem;
 }
+
+.list-group a.selected {
+    background-color: #62C4B4;
+}
