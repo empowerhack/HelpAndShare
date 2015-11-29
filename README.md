@@ -2,10 +2,10 @@
 
 Help and Share Community
 
-Visit the site now ... (Help And Share)[http://empowerhack.github.io/HelpAndShare/]
+Visit the site now ... [Help And Share App](http://empowerhack.github.io/HelpAndShare/)
 
 ## Example Demo 
 
-Note this is out-of-date view the (latest deployed demo)[http://empowerhack.github.io/HelpAndShare/] 
+Note this is out-of-date view the [latest deployed demo](http://empowerhack.github.io/HelpAndShare/) 
 
-!(Example Demo)[static/img/helpandshare-demo.mov.gif]
+![Example Demo](static/img/helpandshare-demo.mov.gif)
