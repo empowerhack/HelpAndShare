@@ -1,0 +1,12 @@
+#myCarousel .carousel-item {
+    height: 34rem;
+}
+
+body {
+    padding:0rem;
+}
+
+footer {
+    padding:3rem 0rem;
+    border-top: 1px solid #999
+}
