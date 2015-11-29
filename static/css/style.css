@@ -16,6 +16,7 @@ footer {
 
 .card {
     overflow: hidden;
+    background-color: #fff;
 }
 
 .container-spacer {
