@@ -10,3 +10,7 @@ footer {
     padding:3rem 0rem;
     border-top: 1px solid #999
 }
+
+.card {
+    overflow: hidden;
+}
