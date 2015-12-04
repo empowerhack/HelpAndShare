@@ -6,6 +6,10 @@ Help and Share Community
 
 Visit the site now ... [Help And Share App](http://empowerhack.github.io/HelpAndShare/)
 
+2015 EmpowerHack Hackathon lightening presentation: https://youtu.be/TkIVEyM40jk
+
+2015 EmpowerHack Hackathon final presentation: https://www.youtube.com/watch?v=-YBp0hfACjA 
+
 ## Contributing
 
 You can contribute in many areas:
